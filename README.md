@@ -1,0 +1,2 @@
+# SEVENMFIVE
+iOS Application for Finding &amp; Tracking Japanese Animation Media. -Uses AniList API. -Can browse by Trending, Popularity &amp; Highest Rated Media. -Can filter by Genre, Release Year or Season. -Stores User-favorited media into Core Data. The current application is still under development, and the current stage is mainly to test the continuity of the main interface UI and the integrity of the logical operation. If you encounter problems during the test, please contact me
